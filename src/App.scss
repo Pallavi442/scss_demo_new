@@ -379,7 +379,7 @@ body {
 }
 
 .social-container {
-  width: 100% !important;
+  width: 93% !important;
 }
 
 .main-div-1 p {
@@ -500,5 +500,11 @@ body {
 .schedule-container h3 {
   font-size: 40px;
   color: white;
+}
+}
+
+@media only screen and (max-width:360px) {
+.schedule-container {
+  width: 93%;
 }
 }
