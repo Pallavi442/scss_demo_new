@@ -16,11 +16,11 @@ function App() {
     <div className="app-container">
       <div className='main-container1'>
       <div className='main-div-1'>
-       <p>Create and <br></br>schedule <br></br>content <br></br><span><i>quicker.</i></span></p>
+       <p>Create and schedule content <span><i>quicker.</i></span></p>
        <img src={create}/>
       </div>
       <div className='main-div-2'>
-        <p>Write your <br></br>content <br></br>using AI.</p>
+        <p>Write your content using AI.</p>
         <img src={girl}/>
       </div>
       </div>
@@ -30,7 +30,7 @@ function App() {
           <div className='social-container'>
             <div className='social-media-container'>
               <h3>
-              Social Media 10x <br></br> <i>Faster</i> with AI
+              Social Media 10x <i>Faster</i> with AI
               </h3>
               <img src={star}/>
               <p>Over 4,000 5-star reviews</p>
@@ -38,20 +38,20 @@ function App() {
             <div className='manage-media-container'>
               <div className='maintain-container-1'>
                 <img src={yourCo}/>
-                <p>  Manage <br></br>multiple <b></b>accounts and platforms.</p>
+                <p>  Manage multiple accounts and platforms.</p>
               </div>
               <div className='maintain-container-2'>
-                <p>Maintain a<br></br> consistent <br></br>posting <br></br>schedule.</p>
+                <p>Maintain a consistent posting schedule.</p>
                 <img src={calender}/>
               </div>
             </div>
 
           </div>
           <div className='schedule-container'>
-            <h3>Schedule to <br></br> social media.</h3>
+            <h3>Schedule to social media.</h3>
             <img src={growth1}/>
-            <p>Optimize post timings <br></br>to publish content <br>
-            </br>at the perfect time<br></br> for your audience.</p>
+            <p>Optimize post timings to publish content 
+            at the perfect time for your audience.</p>
           </div>
     </div>
 
@@ -66,7 +66,7 @@ function App() {
             </div>
             <div className='sub-container2-div2'>
               <img src={growth}/>
-              <h3 style={{color:'white'}}>  Grow followers<br></br> with non-stop<br></br> content.</h3>
+              <h3 style={{color:'white'}}>  Grow followers with non-stop content.</h3>
             </div>
           </div>
         </div>
